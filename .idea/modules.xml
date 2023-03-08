@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CONCEPTO.iml" filepath="$PROJECT_DIR$/.idea/CONCEPTO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriceService/PriceService/PriceService.iml" filepath="$PROJECT_DIR$/PriceService/PriceService/PriceService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductService/ProductService/ProductService.iml" filepath="$PROJECT_DIR$/ProductService/ProductService/ProductService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShoppingCartService/ShoppingCartService/ShoppingCartService.iml" filepath="$PROJECT_DIR$/ShoppingCartService/ShoppingCartService/ShoppingCartService.iml" />
+    </modules>
+  </component>
+</project>
