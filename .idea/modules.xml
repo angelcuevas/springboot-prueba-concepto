@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/PriceService/PriceService/PriceService.iml" filepath="$PROJECT_DIR$/PriceService/PriceService/PriceService.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProductService/ProductService/ProductService.iml" filepath="$PROJECT_DIR$/ProductService/ProductService/ProductService.iml" />
       <module fileurl="file://$PROJECT_DIR$/ShoppingCartService/ShoppingCartService/ShoppingCartService.iml" filepath="$PROJECT_DIR$/ShoppingCartService/ShoppingCartService/ShoppingCartService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configService/configService/configService.iml" filepath="$PROJECT_DIR$/configService/configService/configService.iml" />
     </modules>
   </component>
 </project>

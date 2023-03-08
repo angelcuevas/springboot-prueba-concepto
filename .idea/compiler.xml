@@ -8,11 +8,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PriceService" />
+        <module name="configService" />
         <module name="ProductService" />
         <module name="ShoppingCartService" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="configService" target="17" />
       <module name="PriceService" target="17" />
       <module name="ProductService" target="17" />
       <module name="ShoppingCartService" target="17" />
@@ -23,6 +25,7 @@
       <module name="PriceService" options="-parameters" />
       <module name="ProductService" options="-parameters" />
       <module name="ShoppingCartService" options="-parameters" />
+      <module name="configService" options="-parameters" />
     </option>
   </component>
 </project>

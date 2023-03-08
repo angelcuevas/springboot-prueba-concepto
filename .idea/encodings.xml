@@ -7,5 +7,7 @@
     <file url="file://$PROJECT_DIR$/ProductService/ProductService/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ShoppingCartService/ShoppingCartService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ShoppingCartService/ShoppingCartService/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configService/configService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configService/configService/src/main/resources" charset="UTF-8" />
   </component>
 </project>
